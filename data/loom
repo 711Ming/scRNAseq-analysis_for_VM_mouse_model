@@ -1,1 +1,6 @@
+# loom文件目录
+
+将RNA velocity分析所需的loom文件放在此目录中。文件名应与脚本中的`LOOM_SAMPLES`列表一致，例如`CM12_1.loom`。
+
+请核对loom中的细胞条码与10x表达矩阵细胞条码的匹配规则。
 
