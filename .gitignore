@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Raw and processed data: do not commit large or restricted datasets
+data/matrix/*
+!data/matrix/README.md
+data/loom/*
+!data/loom/README.md
+results/*
+!results/.gitkeep
+
+# Common single-cell data formats
+*.h5ad
+*.loom
+*.h5
+*.h5ad.tmp

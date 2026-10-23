@@ -1,0 +1,13 @@
+# 建议使用Python 3.10
+scanpy>=1.10,<1.12
+anndata>=0.10,<0.12
+numpy>=1.24,<2.0
+pandas>=2.0,<3.0
+scipy>=1.10
+matplotlib>=3.7
+harmonypy>=0.0.9
+louvain>=0.8.2
+gseapy>=1.1
+scvelo>=0.3
+meld>=1.0
+statsmodels>=0.14
